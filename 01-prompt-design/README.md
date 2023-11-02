@@ -11,6 +11,7 @@
 | 7 | [Making an Automated Mentor - Part 5][7] |
 | 8 | [Making an Automated Mentor - Part 6][8] |
 | 9 | [Making an Automated Mentor - Part 7][9] |
+| 10 | [Building a Story with an LLM][9] |
 
 
 [1]: ./chapters/INTRODUCTION.md
@@ -22,3 +23,4 @@
 [7]: ./chapters/TUTOR_05.md
 [8]: ./chapters/TUTOR_06.md
 [9]: ./chapters/TUTOR_07.md
+[10]: ./chapters/EXPLORATION.md
