@@ -4,6 +4,8 @@
 
 In the digital age, leveraging the capabilities of large language models like OpenAI's GPT series has become increasingly popular. Crafting effective prompts for these models is crucial to obtaining desired outputs. This course aims to teach software developers the art and science of prompt design.
 
+In this overview of modern techniques, the context is that a person who loves history wants to write a paper on the history of American Imperialism for publication.
+
 ## Multi-personas Prompting
 
 ### Description
@@ -17,7 +19,7 @@ By assigning a multiple, distinct personas to the model, we can better tailor it
 
 ### Example
 
-Prompt: "As a murder detective, explain the steps to investigate a crime scene. Also take on the role of a murderous criminal and how you could avoid getting caught during each one of those steps."
+"You are a historian specializing in American foreign policy and a high school history teacher explaining American Imperialism to students. How would you describe the key motives, events, and figures in American Imperialism to a class of high school students, keeping in mind their need for both context and engagement?"
 
 ## Chain-of-Thought Prompting
 
@@ -32,9 +34,7 @@ This involves asking sequential questions or providing statements to guide the m
 
 ### Example
 
-First prompt: "Who is Sherlock Holmes?"
-Second prompt: "What methods does he use to solve mysteries?"
-
+"Begin by defining imperialism and its general implications. Then, proceed to explore the historical context in which American Imperialism started. What were the significant wars, policies, and ideologies that characterized American Imperialism? List them in chronological order and describe the outcomes of each phase in the expansion of the United States."
 
 ## Chain-of-Thought Factored Decomposition Prompting
 
@@ -49,11 +49,7 @@ A deeper version of the chain-of-thought technique. Here, we deconstruct the mai
 
 ### Example
 
-- Main Prompt: "Describe the ecosystem of a rainforest."
-- Sub-questions:
-  - "What is the climate of a rainforest?"
-  - "Name the primary layers of a rainforest"
-  - "What animals can be found in the canopy layer?"
+"To understand American Imperialism, break it down into the following components: economic motivations, military motivations, cultural motivations, and political motivations. For each factor, provide historical examples and discuss their impact on American policies and foreign relations during the late 19th and early 20th centuries."
 
 ## Skeleton-of-Thought Prompting
 
@@ -68,7 +64,7 @@ Provide a structured outline for the model to fill in details.
 
 ### Example
 
-Prompt: "Fill in the details for the lifecycle of a butterfly: 1) Egg, 2) Larva, 3) Pupa, 4) Adult."
+"Construct a timeline for the history of American Imperialism, starting with the purchase of Alaska and ending with the Cold War. Your timeline should include the following sections: territorial acquisitions, wars fought for imperialistic reasons, policy doctrines for expansion, and opposition to imperialism within the United States."
 
 ## Flipped Interaction Prompting
 
@@ -83,8 +79,7 @@ Reverse the roles. Instead of asking the model to answer, instruct the model to 
 
 ### Example
 
-- Information: "Volcanoes are geological formations."
-- Prompt: "Ask five questions about volcanoes."
+"Consider yourself a journalist interviewing a panel of experts on American Imperialism. What five probing questions would you ask to elicit their views on the positive and negative aspects of American Imperialism? Use their responses to create a comprehensive article that explores the complexity of the topic."
 
 ## Self-reflection Prompting
 
@@ -98,7 +93,4 @@ Ask the model to introspect its responses or correct/improve previous outputs.
 
 ### Example
 
-- First prompt: "Explain the water cycle."
-- Second prompt: "Reflect on your previous answer and provide a more concise explanation."
-- Third prompt: "Then determine if the more concise explanation is sufficient for a beginner to understand."
-
+"Write a critical essay on the history of American Imperialism. After your initial draft, self-reflect on the content: Does your essay comprehensively cover the timeline and motivations? How does it address the various viewpoints and cultural impacts? Then, revise the essay to ensure it provides a balanced and thorough examination of American Imperialism."

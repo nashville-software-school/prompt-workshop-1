@@ -38,3 +38,4 @@ for (const pirates of pirates) {
 
 You should notice a drastic difference in the response. It no longer immediately provides an answer, but rather prompts you to explore further and do some work yourself first.
 
+You likely got a response where it asked you to examine the code that is likely causing the problem, but it did not tell you what the problem was. If it asked you if you could identify the error, answer "No" and see what the next response is.
