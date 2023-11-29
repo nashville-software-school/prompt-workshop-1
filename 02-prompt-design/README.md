@@ -1,5 +1,7 @@
 # Prompt Design
 
+Highly structured prompt set up at the beginning to force the LLM to take on a role with specific restrictions.
+
 | # | 🧠 AI Prompt Engineering Basics |
 |--|--|
 | 1 | [Introduction to LLM Capabilities][1] |
@@ -11,7 +13,7 @@
 | 7 | [Making an Automated Mentor - Part 5][7] |
 | 8 | [Making an Automated Mentor - Part 6][8] |
 | 9 | [Making an Automated Mentor - Part 7][9] |
-| 10 | [Building a Story with an LLM][9] |
+| 10 | [Building a Story with an LLM][10] |
 
 
 [1]: ./chapters/INTRODUCTION.md
