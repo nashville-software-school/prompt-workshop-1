@@ -2,6 +2,8 @@
 
 Since an LLM like ChatGPT is a great resource for getting your creative juices flowing, here's an actual conversation that was had to help a product designer for a major food brand to come up with an idea for a new product.
 
+After you read this conversation, you are given a sample scenario to try it out for yourself.
+
 ## Providing Initial Context
 
 First, the age range of the target audience was determined. Just a conversation prompt that you might ask any expert in a field.
@@ -202,3 +204,9 @@ Now the designer wants some specific ideas and guidance on how to begin developi
 >     - Consider implementing sustainable and socially responsible practices in your production and supply chain, which align with Gen Z's values and can be part of your marketing strategy.
 >
 > Throughout the entire process, effective communication and collaboration among the cross-functional teams are essential for success. Regular meetings, progress updates, and feedback sessions should be organized to ensure everyone is aligned with the project's goals and milestones. Additionally, staying adaptable and open to adjustments based on market dynamics and consumer feedback is crucial for the long-term success of your product.
+
+## Sample Scenario
+
+Imagine you work for a large healthcare company, and you want to build a product to get better outpatient follow up results between doctors and their patients. Doctors have complained that their patient  don't follow up with email or text questions, and don't always schedule a checkup appointment.
+
+Use the LLM to refine the problem, generate some ideas for your product, and build a basic strategy.
