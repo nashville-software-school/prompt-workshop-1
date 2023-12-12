@@ -112,5 +112,8 @@ Week 2: Develop a communication plan to keep all team members informed and align
 
 Please note that these timelines are rough estimates, and the actual duration of each step can vary depending on factors such as the size and complexity of your codebase, the experience of your team, and the level of support from third-party libraries. Additionally, it's essential to maintain open communication and adapt the timeline as needed based on your team's progress and feedback.
 
+## Sample Scenario
 
+Imagine you are on a team of data engineers that is interested in how to utilize Amazon's Step Functions to do data transformations before the data is made available for consumption by client applications.
 
+Have a conversation with ChatGPT to learn more about it and start coming up with a plan for how it can be used and integrated into your team's workflow.
